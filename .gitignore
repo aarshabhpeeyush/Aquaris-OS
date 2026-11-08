@@ -1,0 +1,4 @@
+web/
+build/
+*.xcodeproj/
+aquaris-ipad/Assets.xcassets/AppIcon.appiconset/icon-1024.png
