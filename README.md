@@ -58,6 +58,9 @@ the iPad and computer are on the same Wi-Fi.
   page of every app, with search.
 - **Spotlight**: <kbd>Ctrl</kbd>/<kbd>Alt</kbd> + <kbd>Space</kbd> finds apps, settings and the web,
   and does sums.
+- **Window switcher**: hold <kbd>Alt</kbd>+<kbd>Shift</kbd> and press <kbd>T</kbd>. The window you
+  used just before is already picked; press <kbd>T</kbd> again for the next one (or use the arrow
+  keys, or click one), and let go of <kbd>Alt</kbd> to switch. <kbd>Esc</kbd> cancels.
 - **Apps included**: Aeris (the browser), Discord, WhatsApp, YouTube, YouTube Music, Zoom, Gmail,
   Google Docs, Photopea, OpenCut, VS Code, and you can add any website as an app, with its own icon
   (there's an icon maker).
@@ -96,7 +99,9 @@ Aquaris windows** with Aquaris's own title bars and dock.
   Customize panel (tab layouts, tab shapes, Aeris Mods). It runs on Apple's engine, since Apple
   doesn't allow Firefox's on iPads.
 - **Touch**: tap to open, hold for the menu, **two-finger tap** for the right-click menu,
-  **three-finger tap** for Spotlight.
+  **three-finger tap** for Spotlight, and **swipe sideways with two fingers** for the window
+  switcher (right for the next window, left to go back; lift your fingers to switch). With a
+  keyboard, <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd> works too.
 - **Game controllers** (PlayStation or Xbox): the controller becomes a mouse.
 
 | Button | Does |
@@ -113,6 +118,7 @@ Aquaris windows** with Aquaris's own title bars and dock.
 | Options / Menu | Aquaris menu |
 | Share / View | Show the desktop |
 | Left stick click | Slow, precise cursor |
+| Right stick click (R3) | Window switcher: press again to move along; it switches after a moment (or click a tile with R1) |
 
 ## Good to know
 
