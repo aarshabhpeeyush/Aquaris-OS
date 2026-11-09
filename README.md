@@ -102,6 +102,11 @@ Aquaris windows** with Aquaris's own title bars and dock.
   **three-finger tap** for Spotlight, and **swipe sideways with two fingers** for the window
   switcher (right for the next window, left to go back; lift your fingers to switch). With a
   keyboard, <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd> works too.
+- **Bluetooth mouse, trackpad and keyboard**: connect them and Aquaris works like on a computer:
+  double-click to open, right-click menus, hover, computer-sized controls, and its keyboard
+  shortcuts work even while a website has the keyboard (<kbd>Alt</kbd>+<kbd>Space</kbd> for
+  Spotlight, since iPadOS keeps <kbd>Cmd</kbd>+<kbd>Space</kbd> for its own search). Unplug them and
+  it's touch-friendly again.
 - **Game controllers** (PlayStation or Xbox): the controller becomes a mouse.
 
 | Button | Does |
