@@ -75,6 +75,14 @@ the iPad and computer are on the same Wi-Fi.
 - **Sync between your computer and iPad**: your look, wallpaper, notes, apps, desktop layout and
   Aeris's Customize settings stay the same on both. It works over your home Wi-Fi with a pairing code
   (Settings → Sync), so nothing goes to the internet.
+- **Arcade**: three games made for Aquaris: *Bubble Pop* (touching bubbles of a colour pop
+  together), *Drop Swap* (line up three or more drops) and *Memory Tides* (find the pairs).
+- **Snap layouts**: rest the pointer on a window's maximise button (or right-click it) to pick a
+  layout (halves, thirds, a big one and two small, quarters) and a spot; Aquaris then offers your
+  other windows for the other spots.
+- **Capture**: screenshots of everything, one window or an area you drag
+  (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>), and screen recordings. On a computer they're
+  saved in *Pictures → Aquaris Captures* (screenshots are copied too); on an iPad, in Photos.
 - **Real app icons**: web apps wear their website's own icon, the one in its browser tab.
 - **Control Centre**: real Wi-Fi, Bluetooth, volume, brightness and night light on Windows, Linux
   and Mac (wherever the system allows it).
