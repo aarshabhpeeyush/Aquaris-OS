@@ -67,6 +67,15 @@ the iPad and computer are on the same Wi-Fi.
 - **Aquaris's own apps**, made by Aquaris with nothing from the internet: Files (like Windows File
   Explorer, with Quick access), Notepad, Calculator, Clock, Paint, Weather, and **AquaApps**, the
   store to get more.
+- **Now Playing**: whatever is playing music or video (YouTube Music, YouTube, an Aeris tab) shows
+  in the top bar with ⏮ ⏯ ⏭, even when its window is minimised. Click it for a bigger card.
+- **Notifications**: apps show red unread badges on the dock and desktop (from "(3) Discord" style
+  titles); new messages pop up with a little jingle and collect in the **Notification Centre**
+  (the bell), which has Do Not Disturb and a sound switch.
+- **Sync between your computer and iPad**: your look, wallpaper, notes, apps, desktop layout and
+  Aeris's Customize settings stay the same on both. It works over your home Wi-Fi with a pairing code
+  (Settings → Sync), so nothing goes to the internet.
+- **Real app icons**: web apps wear their website's own icon, the one in its browser tab.
 - **Control Centre**: real Wi-Fi, Bluetooth, volume, brightness and night light on Windows, Linux
   and Mac (wherever the system allows it).
 - **Task manager**: memory and processor use for every app, biggest first, plus **RAM and CPU
