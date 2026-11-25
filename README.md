@@ -56,8 +56,24 @@ the iPad and computer are on the same Wi-Fi.
   the dock, with smooth animations. Your windows come back where you left them.
 - **A dock, a Mac-style menu bar and a start menu** (the grid button on the dock): a full-screen
   page of every app, with search.
-- **Spotlight**: <kbd>Ctrl</kbd>/<kbd>Alt</kbd> + <kbd>Space</kbd> finds apps, settings and the web,
-  and does sums.
+- **Spotlight searches everything**: <kbd>Ctrl</kbd>/<kbd>Alt</kbd> + <kbd>Space</kbd> finds apps,
+  settings, open windows and tabs, notes and to-dos, captures, files in your home folders and the
+  web, and does sums.
+- **Widgets**: right-click the desktop → *Add a widget*: clock, weather, calendar, quick note,
+  Now Playing and to-do. Drag them by their title.
+- **Spaces**: several desktops, each with its own windows. Switch from the top bar, with
+  <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>←</kbd>/<kbd>→</kbd>, or a three-finger swipe on the iPad.
+- **Clipboard history**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd> shows what you copied lately;
+  pick one to paste it.
+- **Mini player**: the little button on a window's title bar shrinks a video to a floating player
+  that stays on top.
+- **AquaDrop**: send links, text and files (up to 8 MB) between your computer and your iPad over
+  Sync: from the AquaDrop app, Spotlight, or right-click → *Send to iPad / Send to computer*. On the
+  iPad, files open the share sheet (save to Files or Photos).
+- **Continue where you left off**: what you had open on the other device shows as a card (and at
+  the top of Spotlight); one click opens it here, in its own app if you have it.
+- **Theme Studio**: design your own look (light or dark, accent colour, glass tint and amount,
+  window corners, icon shape, font and wallpaper) and save it as a theme. Your themes sync too.
 - **Window switcher**: hold <kbd>Alt</kbd>+<kbd>Shift</kbd> and press <kbd>T</kbd>. The window you
   used just before is already picked; press <kbd>T</kbd> again for the next one (or use the arrow
   keys, or click one), and let go of <kbd>Alt</kbd> to switch. <kbd>Esc</kbd> cancels.
@@ -166,7 +182,10 @@ Aquaris windows** with Aquaris's own title bars and dock.
 
 ```
 aquaris/          the desktop itself: one HTML page, its styles (Minimal, Aqua and the theme
-                  skins) and aquaris.js (windows, dock, apps, settings, system controls)
+                  skins) and aquaris.js (windows, dock, apps, settings, system controls);
+                  live.js (Now Playing, notifications, sync), extras.js (Arcade, snap
+                  layouts, Capture), accounts.js, wallpapers.js, desk.js (widgets, Spaces,
+                  Spotlight, clipboard, mini player), share.js (AquaDrop, Continue), studio.js
   system.ps1      the small Windows helper for Wi-Fi, Bluetooth, volume and brightness
                   (Linux and Mac use their own built-in tools)
 aquaris-ipad/     the iPad app (Swift): shows Aquaris, and lays real web views over its windows
