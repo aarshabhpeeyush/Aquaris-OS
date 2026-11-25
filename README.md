@@ -97,6 +97,8 @@ the iPad and computer are on the same Wi-Fi.
   limiters** that put hidden apps to sleep (like Opera GX).
 - **Napping**: apps you hide fall asleep after a few minutes, so they use no memory, and wake when
   you open them. Music apps keep playing.
+- **Video wallpapers and a separate lock screen**: use a video as your wallpaper, and give the lock
+  screen its own picture or video.
 - **Make it yours**: themes, light/dark, glass amount, corner roundness, dock size, Mac or Windows
   window buttons, your own wallpaper and pointer, desktop text, and a start-up animation and sound.
 
