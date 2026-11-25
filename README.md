@@ -88,6 +88,8 @@ the iPad and computer are on the same Wi-Fi.
 - **Capture**: screenshots of everything, one window or an area you drag
   (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>), and screen recordings. On a computer they're
   saved in *Pictures → Aquaris Captures* (screenshots are copied too); on an iPad, in Photos.
+- **Links open in the right app**: a link to a site you have as an app opens in that app (a Zoom
+  link from your school's app opens Zoom); other links open in Aeris.
 - **Real app icons**: web apps wear their website's own icon, the one in its browser tab.
 - **Control Centre**: real Wi-Fi, Bluetooth, volume, brightness and night light on Windows, Linux
   and Mac (wherever the system allows it).
