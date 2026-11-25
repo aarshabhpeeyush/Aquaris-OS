@@ -75,6 +75,11 @@ the iPad and computer are on the same Wi-Fi.
 - **Sync between your computer and iPad**: your look, wallpaper, notes, apps, desktop layout and
   Aeris's Customize settings stay the same on both. It works over your home Wi-Fi with a pairing code
   (Settings → Sync), so nothing goes to the internet.
+- **Accounts, with Sign in with Google**: a desktop for each person, each with its own apps, look
+  and website sign-ins. *Settings → Accounts → Add account with Google* opens Google's own sign-in
+  page (your password only ever goes to Google); Aquaris then shows your name and photo, and that
+  account is signed in to Gmail, YouTube and Docs. The lock screen picks the account, with an
+  optional PIN.
 - **Arcade**: three games made for Aquaris: *Bubble Pop* (touching bubbles of a colour pop
   together), *Drop Swap* (line up three or more drops) and *Memory Tides* (find the pairs).
 - **Snap layouts**: rest the pointer on a window's maximise button (or right-click it) to pick a
